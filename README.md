@@ -16,6 +16,7 @@ I build and audit AI systems that are safe, interpretable, and operationally def
 - **[Post-Discharge Follow-Up Risk Model](https://github.com/sole-healthtech/follow-up-failure-early-warning):** Python-based predictive model with threshold analysis framed around care team capacity and clinical risk tolerance
 
 ## 📬 Connect
+- **Email:** sole.clinicalai@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/sole-erwin-35380a3aa/)
 
 ---
