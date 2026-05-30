@@ -19,5 +19,14 @@ I build and audit AI systems that are safe, interpretable, and operationally def
 - **Email:** sole.clinicalai@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/sole-erwin-35380a3aa/)
 
+## 🤝 Work with me
+I audit clinical AI systems for the failure modes that technical testing cannot catch — behavioral drift, displaced safety nets, and accountability gaps that surface after go-live.
+
+If you're building or deploying AI in a clinical setting and want a bedside perspective on where it may fail in practice, book a discovery call.
+
+[Book a Clinical AI Discovery Call →](https://calendly.com/sole-clinicalai/30min)
+
 ---
+
 *"AI can predict a readmission, but it can't tell you the patient's daughter is the primary caregiver. I build for the gap in between."*
+```
